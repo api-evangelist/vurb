@@ -30,6 +30,7 @@ description: Vurb was a mobile search and discovery startup founded in 2011 by B
   removed from app stores. vurb.com now serves only a shutdown notice. There is no public API,
   developer portal, or documentation surface; this profile is retained as a network record of a
   defunct, acquired company with no API surface to enrich.
+x-status: defunct
 url: https://raw.githubusercontent.com/api-evangelist/vurb/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -43,6 +44,7 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
