@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Vurb is a company surfaced as a portfolio company of dcvc, redpoint-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: dcvc, redpoint-ventures — http://vurb.com/
+Vurb was a mobile search and discovery startup founded in 2011 by Bobby Lo, backed by DCVC and Redpoint Ventures. Its card-based mobile app (Vurb Cards, Decks) unified search across partners like Yelp, Uber, OpenTable and Netflix, and won TechCrunch Disrupt NY 2014. Snap Inc. (Snapchat) acquired Vurb in August 2016 for roughly $110M+, and the product was subsequently taken offline and removed from app stores. vurb.com now serves only a shutdown notice. There is no public API, developer portal, or documentation surface; this profile is retained as a network record of a defunct, acquired company with no API surface to enrich.
+
+**Areas:** Company · Defunct
+
+## Vurb on APIs.io (historical record)
+
+Everything profiled for Vurb is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/vurb/](https://apis.io/providers/vurb/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://vurb.com/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Vurb: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/vurb/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
